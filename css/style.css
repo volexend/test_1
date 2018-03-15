@@ -1,0 +1,93 @@
+
+div, a, img, button{
+	/*border: 4px double black; */
+}
+body{
+	max-width: 1280px
+	font-style: #6B6B6B;
+    color: #080808;
+    background-color: #ffffff;
+	font-family: 'Roboto Slab', serif !important; 
+}
+a{
+	text-decoration: none !important;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif !important;
+}
+.middle_container{
+	background: url(../img/main_bg.png) top;
+	background-repeat: no-repeat;
+}
+.button_middle{
+	text-transform: uppercase;
+	background-color: #ffffff;
+	border: 1px solid grey !important;
+	margin-top: 40px;
+}
+.button_middle:hover{
+	background-color: #e74d4f ;
+	color: white !important;
+}
+.right_block{
+	background: url(../img/bg_romb.png) ;
+	background-repeat: no-repeat;
+}
+.iphone{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 200px !important;
+	height: 400px;
+	border-radius: 15px;
+	border: 1px solid grey ;
+	background-color:white;
+	-webkit-box-shadow: inset -5px -3px 19px -5px rgba(50, 50, 50, 1);
+	-moz-box-shadow:    inset -5px -3px 19px -5px rgba(50, 50, 50, 1);
+	box-shadow:         inset -5px -3px 19px -5px rgba(50, 50, 50, 1);
+}
+.iphone h2 {
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.iphone p{
+	margin-top: 100px;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.block_news{
+	margin-top: 100px;
+	margin-left: 45px;
+	margin-right: 45px;
+	-webkit-box-shadow: 0px 1px 30px -5px rgba(50, 50, 50, 1);
+	-moz-box-shadow:    0px 1px 30px -5px rgba(50, 50, 50, 1);
+	box-shadow:         0px 1px 30px -5px rgba(50, 50, 50, 1);
+}
+.block_news h4{
+	text-transform: uppercase;
+	font-weight: 900 !important;
+}
+.block_news p{
+	line-height: 28px;
+	font-size: 30px
+}
+.block_news img {
+	width: 400px;
+	padding:15px; 
+}
+.mini_box p{
+	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 12px;
+}
+.mini_box hr{
+	border: none; 
+    color: #DA4453;
+    background-color: #DA4453;
+    height: 1px;
+}
+
+
+
+
+
+
